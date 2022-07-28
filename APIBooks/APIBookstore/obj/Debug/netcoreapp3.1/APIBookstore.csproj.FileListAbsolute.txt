@@ -1,0 +1,321 @@
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.exe
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.deps.json
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.json
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.dev.json
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.pdb
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.AssemblyReference.cache
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfoInputs.cache
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfo.cs
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\staticwebassets\APIBookstore.StaticWebAssets.Manifest.cache
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\staticwebassets\APIBookstore.StaticWebAssets.xml
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIBookstore.styles.css
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.RazorTargetAssemblyInfo.cache
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.pdb
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.genruntimeconfig.cache
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CopyComplete
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nathalia\Documents\Códigos\DIO\API\APIBookstore\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.StaticWebAssets.xml
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.exe
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.deps.json
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.json
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.dev.json
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.pdb
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.AssemblyReference.cache
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.GeneratedMSBuildEditorConfig.editorconfig
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfoInputs.cache
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfo.cs
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CoreCompileInputs.cache
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.MvcApplicationPartsAssemblyInfo.cache
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\staticwebassets\APIBookstore.StaticWebAssets.Manifest.cache
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.RazorTargetAssemblyInfo.cache
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CopyComplete
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.dll
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.pdb
+D:\VirtualBox VMs\Docs VMs\DIO-LiveCoding-Api-GETProducts-master\DIO-LiveCoding-Api-GETProducts-master\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.genruntimeconfig.cache
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.StaticWebAssets.xml
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.exe
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.deps.json
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.json
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.dev.json
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.pdb
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.AssemblyReference.cache
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.GeneratedMSBuildEditorConfig.editorconfig
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfoInputs.cache
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfo.cs
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CoreCompileInputs.cache
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.MvcApplicationPartsAssemblyInfo.cache
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\staticwebassets\APIBookstore.StaticWebAssets.Manifest.cache
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.RazorTargetAssemblyInfo.cache
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CopyComplete
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.dll
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.pdb
+D:\VirtualBox VMs\Docs VMs\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.genruntimeconfig.cache
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csprojAssemblyReference.cache
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfoInputs.cache
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfo.cs
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CoreCompileInputs.cache
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.MvcApplicationPartsAssemblyInfo.cache
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.RazorTargetAssemblyInfo.cache
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.pdb
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.exe
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.deps.json
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.json
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.dev.json
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.dll
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.pdb
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CopyComplete
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\staticwebassets\APIBookstore.StaticWebAssets.Manifest.cache
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\staticwebassets\APIBookstore.StaticWebAssets.xml
+C:\DIO\BootCamps\SantanderFullStack\Angular\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.genruntimeconfig.cache
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.exe
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.deps.json
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.json
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.runtimeconfig.dev.json
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\APIBookstore.pdb
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csprojAssemblyReference.cache
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfoInputs.cache
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.AssemblyInfo.cs
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CoreCompileInputs.cache
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.MvcApplicationPartsAssemblyInfo.cache
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.RazorTargetAssemblyInfo.cache
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.csproj.CopyComplete
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\staticwebassets\APIBookstore.StaticWebAssets.Manifest.cache
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\staticwebassets\APIBookstore.StaticWebAssets.xml
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.dll
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.pdb
+C:\DIO\BootCamps\SantanderFullStack\workspace\GitHub-Repositorios\E-Commerce-Dio\APIBooks\APIBookstore\obj\Debug\netcoreapp3.1\APIBookstore.genruntimeconfig.cache

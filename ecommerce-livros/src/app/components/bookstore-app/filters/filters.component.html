@@ -1,0 +1,21 @@
+<div class="car">
+    <div class="card-header">
+        <div class="card-body">
+            <form>
+                <div class="form-group">
+                    <label for="de">De</label>
+                    <input #de type="number" id="de" class="form-control" (keyup)="valorInicial" >
+                </div>
+                <div class="form-group">
+                    <label for="ate">Ate</label>
+                    <input #ate type="number" id="ate" class="form-control">
+                </div>
+                <div class="form-group"></div>
+                <button type="button" class="btn btn-primary btn-block btn-sm my-2"
+                    (click)="filter(de.value, ate.value)">Filtrar</button>
+                <button type="button" class="btn btn-secondary btn-block btn-sm ms-2 my-2"
+                    (click)="de.value =''; ate.value ='';filter(de.value, ate.value)">Limpar</button>
+            </form>
+        </div>
+    </div>
+</div>
